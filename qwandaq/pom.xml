@@ -245,7 +245,7 @@
 		<dependency>
 			<groupId>io.smallrye.reactive</groupId>
 			<artifactId>smallrye-mutiny-vertx-sql-client</artifactId>
-			<version>3.0.0-milestone1</version>
+			<version>3.9.0</version>
 		</dependency>
 
 		<!-- Nice little reflections library (To be used sparingly) -->
