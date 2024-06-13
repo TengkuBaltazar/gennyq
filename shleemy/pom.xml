@@ -17,7 +17,7 @@
 	<description>Shleemypants the Time Cop. Here to maintain times schedules.</description>
 
 	<properties>
-		<commons-lang3.version>3.10</commons-lang3.version>
+		<commons-lang3.version>3.12.0</commons-lang3.version>
 		<docker-plugin.version>0.33.0</docker-plugin.version>
 		<jandex.version>1.0.7</jandex.version>
 		<keycloak.version>15.0.2</keycloak.version>
@@ -139,8 +139,8 @@
 							<failOnUnableToExtractRepoInfo>true</failOnUnableToExtractRepoInfo>
 							<skip>false</skip>
 							<runOnlyOnce>false</runOnlyOnce>
-							<excludeProperties></excludeProperties>
-							<includeOnlyProperties></includeOnlyProperties>
+							<excludeProperties/>
+							<includeOnlyProperties/>
 							<useNativeGit>false</useNativeGit>
 							<abbrevLength>7</abbrevLength>
 							<gitDescribe>
