@@ -16,7 +16,7 @@
 
   <properties>
     <sendgrid.version>4.6.3</sendgrid.version>
-    <twilio.version>8.23.0</twilio.version>
+    <twilio.version>10.6.8</twilio.version>
   </properties>
 
   <dependencyManagement>
@@ -165,8 +165,8 @@
               <failOnUnableToExtractRepoInfo>true</failOnUnableToExtractRepoInfo>
               <skip>false</skip>
               <runOnlyOnce>false</runOnlyOnce>
-              <excludeProperties></excludeProperties>
-              <includeOnlyProperties></includeOnlyProperties>
+              <excludeProperties/>
+              <includeOnlyProperties/>
               <useNativeGit>false</useNativeGit>
               <abbrevLength>7</abbrevLength>
               <gitDescribe>
