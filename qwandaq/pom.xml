@@ -228,7 +228,7 @@
 		<dependency>
 			<groupId>com.fasterxml.jackson.datatype</groupId>
 			<artifactId>jackson-datatype-jsr310</artifactId>
-			<version>2.13.2</version>
+			<version>2.15.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
 		<dependency>
@@ -245,7 +245,7 @@
 		<dependency>
 			<groupId>io.smallrye.reactive</groupId>
 			<artifactId>smallrye-mutiny-vertx-sql-client</artifactId>
-			<version>3.0.0-milestone1</version>
+			<version>3.4.1</version>
 		</dependency>
 
 		<!-- Nice little reflections library (To be used sparingly) -->
