@@ -51,7 +51,7 @@
 
 	<properties>
 		<surefire-plugin.version>3.0.0-M5</surefire-plugin.version>
-		<commons-text.version>1.8</commons-text.version>
+		<commons-text.version>1.14.0</commons-text.version>
 		<jackson-datatype-money.version>1.0.0</jackson-datatype-money.version>
 		<version.moneta>1.1</version.moneta>
 		<jwt.version>0.10.7</jwt.version>
